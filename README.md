@@ -10,6 +10,7 @@ In this bash prompt *linux* is a hostname and *sanjud.net* is the domain name an
 +++++++++++++++++++++++++++++++++++++++++++++++++++\
 ` git clone -b style1 https://github.com/NgineerBabu/promptstyle `\
 ` cat promptstyle/style1 >> ~/.bashrc `\
+` source ~/.bashrc `\
 +++++++++++++++++++++++++++++++++++++++++++++++++++
 \
 \
@@ -19,4 +20,5 @@ In this bash prompt *root* is the user followed by separator pipe | *linux.sanju
 +++++++++++++++++++++++++++++++++++++++++++++++++++\
 ` git clone -b style2 https://github.com/NgineerBabu/promptstyle `\
 ` cat promptstyle/style2 >> ~/.bashrc `\
+` source ~/.bashrc `\
 ++++++++++++++++++++++++++++++++++++++++++++++++++
