@@ -1,2 +1,2 @@
 DN=`hostname -d`;if [ -z $DN ];then HN=`hostname -s`;elif [ -n $DN ];then HN=`hostname -s`.;fi
-PS1="\n\e[107;31m$HN\e[0m\e[1;37;41m$DN\e[0m '\w'\n>>\e\ "
+PS1="\n\e[107;31m$HN\e[0m\e[1;37;41m$DN\e[0m '\w'\n>> "
